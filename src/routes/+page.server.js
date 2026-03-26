@@ -18,7 +18,7 @@ export const actions = {
         const data = await request.formData();
 
         try {
-            let description = data.get('description')
+            let description = data.get('description');
             db.createTodo(cookies.get('userid'), description);
 
             // LOG successful TODO creation
@@ -26,7 +26,7 @@ export const actions = {
 
         } catch (error) {
             // LOG caught ERROR
-            console.log("TODO - *** ERROR *** - there was a problem with your new TODO = '" +  + error.message + "'");
+            console.log("TODO - *** ERROR *** - there was a problem with your new TODO = '" + error.message + "'");
         }
     },
 
