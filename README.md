@@ -1,7 +1,7 @@
 
 [Stage 1](https://github.com/dr-matt-smith/FEDev-form-validation-with-user-error-messages--stage-1)
 |
-[Stage2](https://github.com/dr-matt-smith/FEDev-form-validation-with-user-error-messages--stage-2)
+[Stage 2](https://github.com/dr-matt-smith/FEDev-form-validation-with-user-error-messages--stage-2)
 |
 Stage 3
 |
